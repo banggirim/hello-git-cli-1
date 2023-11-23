@@ -1,4 +1,2 @@
-hello git
-second
-third-mybranch
-fourth -my branch 
+새로운 기능추가
+some hot fix
